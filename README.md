@@ -14,8 +14,6 @@
 
 ---
 
-## Навыки
-
 ### Skills:
 `Python`, `SQL`, `Git`, `Redash`, `Airflow`, `PyCharm`, `Jupyter Notebook`, `Command-line`
 
@@ -28,7 +26,7 @@
 
 | Наименование | Описание | Стек |
 |-------------|----------|------|
-| **Исследование данных мобильной игры** [(GitHub)](github) | Выбор, расчет продуктовых метрик (*Conversion Rate, ARPPU, ARPU*). Проверка гипотез, анализ результатов *A/B-теста* (*Хи-квадрат, T-test*). | `pandas`, `numpy`, `seaborn`, `matplotlib`, `scipy`, `pengouin`, `requests` |
+| **Исследование данных мобильной игры** [(GitHub)](https://github.com/Arkady303/mobile_game) | Выбор, расчет продуктовых метрик (*Conversion Rate, ARPPU, ARPU*). Проверка гипотез, анализ результатов *A/B-теста* (*Хи-квадрат, T-test*). | `pandas`, `numpy`, `seaborn`, `matplotlib`, `scipy`, `pengouin`, `requests` |
 | **Исследование данных e-commerce** [(GitHub)](github) | Анализ поведения пользователей, когортный анализ, RFM-анализ. | `pandas`, `seaborn`, `matplotlib`, `requests`, `api` |
 | **Исследование данных приложения доставки** [(GitHub)](github) | Выбор, расчет продуктовых метрик. Проверка гипотез, анализ результатов *A/B-теста* (*Bootstrap*). | `pandas`, `seaborn`, `matplotlib`, `scipy`, `pingouin` |
 | **Анализ продуктовых метрик приложения доставки** [(GitHub)](github) | Расчет и анализ продуктовых метрик (*MAU, ROMI, медианный чек*). | `pandas` |

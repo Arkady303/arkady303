@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="250" src="HQRCWRNPDDNE42KMM3MJXHQFPRRRZZZ6NHIRRXJR4F6EOWRMUQVRN6K2MU">
+  <img width="400" height="250" src="https://github.com/Arkady303/arkady303/blob/main/image.png">
 </p>
 
 ## Hi there 👋

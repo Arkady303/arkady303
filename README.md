@@ -15,7 +15,7 @@
 ---
 
 ### Skills:
-`Python`, `SQL`, `Git`, `Redash`, `Airflow`, `PyCharm`, `Jupyter Notebook`, `Command-line`
+`Python`, `SQL`, `Git`, `Redash`, `Airflow`, `PyCharm`, `Jupyter Notebook`, `Tableau`, `Command-line`
 
 ### Technologies:
 `Pandas`, `Numpy`, `Scipy`, `Matplotlib`, `Seaborn`, `Sklearn`

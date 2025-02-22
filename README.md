@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="250" src="https://github.com/Arkady303/arkady303/blob/main/TjrzpysCxcjfT2uZ-generated_image22222.JPG">
+  <img width="500" height="315" src="https://github.com/Arkady303/arkady303/blob/main/TjrzpysCxcjfT2uZ-generated_image22222.JPG">
 </p>
 
 # Привет! Меня зовут Аркадий Бахтиозин.

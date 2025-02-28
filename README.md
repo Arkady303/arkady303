@@ -1,5 +1,5 @@
 <h1 align="center"> Привет! Меня зовут Аркадий Бахтиозин.</h1>
-<img align="right" src="https://github.com/Arkady303/arkady303/blob/main/TjrzpysCxcjfT2uZ-generated_image22222.JPG" height="320" width="400">
+<img align="right" src="https://github.com/Arkady303/arkady303/blob/main/TjrzpysCxcjfT2uZ-generated_image22222.JPG" height="306" width="405">
 
 Я специалист в области аналитики данных с опытом работы в различных отраслях. Интересуюсь исследованием данных, разработкой моделей прогнозирования и анализом пользовательского поведения. Меня мотивирует возможность делать бизнес-решения более осмысленными на основе данных. 
 
